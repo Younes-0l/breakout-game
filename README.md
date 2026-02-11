@@ -5,7 +5,7 @@ extendable, and well-structured code while going beyond a simple Breakout clone.
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 ### Gameplay
 ![Gameplay Screenshot](assets/screenshots/start.png)
 
@@ -31,8 +31,8 @@ extendable, and well-structured code while going beyond a simple Breakout clone.
 
 ### 1. Clone the repository
 ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-    cd YOUR_REPO_NAME
+    git clone https://github.com/Younes-0l/breakout-game.git
+    cd breakout-game
 ```
 
 ### 2. Install package dependencies
